@@ -1,0 +1,23 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {},
+      "workpiece": {
+        "automatic": true,
+        "margin": 5,
+        "bounds": {
+          "min": [-162.9015, -117.8529, -0.15],
+          "max": [388.8915, 148.5429, 3]
+        }
+      },
+      "files": [
+        "perimetro_delta_1.txt",
+        "perimetro_delta_2.txt",
+        "taladro1.txt",
+        "taladro2.txt",
+        "taladro3.txt",
+        "perimetro_intero_delta.txt",
+        "perimetro_intero_delta2.txt"
+      ]
+    }
